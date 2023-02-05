@@ -36,8 +36,12 @@
   "https://i.pinimg.com/originals/39/a6/88/39a6886cbfa526e3b974996af8379364.jpg"
   ],
   "id": "8IZBxowCvRhywtXR79QXIqBZPmLyl7r6UWbG6HBbzU7ZtHbHJu3lD0R8FC6AyLXNUmWfbDqKMvTLWVn_U7womA",
-  "ints":"4bf7270d29d458f2",
-  "ban":"8816c2791a9939c6",
+  "interstialApplovinID":"4bf7270d29d458f2",
+  "bannerApplovinId":"8816c2791a9939c6",
+  "bannerAdmobID":"ca-app-pub-3940256099942544/6300978111",
+  "interstialAdmobID":"ca-app-pub-3940256099942544/1033173712",
+  "bannerServe":"admob",
+  "interstitialServe":"admob",
   "mrec":"868abcdee7d47d10",
   "apiKey":"563492ad6f9170000100000157ad68dc33c24d63981e1c51fa14d732"
 }
