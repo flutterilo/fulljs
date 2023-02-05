@@ -40,8 +40,8 @@
   "bannerApplovinId":"8816c2791a9939c6",
   "bannerAdmobID":"ca-app-pub-3940256099942544/6300978111",
   "interstialAdmobID":"ca-app-pub-3940256099942544/1033173712",
-  "bannerServe":"applovin",
-  "interstitialServe":"applovin",
+  "bannerServe":"admob",
+  "interstitialServe":"admob",
   "mrec":"868abcdee7d47d10",
   "apiKey":"563492ad6f9170000100000157ad68dc33c24d63981e1c51fa14d732"
 }
